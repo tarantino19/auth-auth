@@ -1,0 +1,4 @@
+Node + Passport
+
+Passport Local Strategy
+Passport JWT Strategy
